@@ -1,4 +1,4 @@
-# Project5
+# Project5 (implement Quadtree representation of a given image)
 
 Input: inFile(argv [1]) a text file contains a binary image with header information. The first text-line is the header 
 information: numRows numCols minVal maxVal follows by rows and columns of pixels, 0’s and 1’s. An example below 
